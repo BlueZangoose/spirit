@@ -214,7 +214,15 @@
 #define MAPSEC_ALTERING_CAVE                0xD2
 #define MAPSEC_NAVEL_ROCK                   0xD3
 #define MAPSEC_TRAINER_HILL                 0xD4
-#define MAPSEC_NONE                         0xD5
+#define MAPSEC_SPIRIT_SPRING                0xD5	//#spirit
+#define MAPSEC_SPIRIT_ROUTE_1               0xD6	//#spirit
+#define MAPSEC_SPIRIT_ROUTE_2               0xD7	//#spirit
+#define MAPSEC_SPIRIT_ROUTE_3               0xD8	//#spirit
+#define MAPSEC_SPIRIT_ROUTE_4               0xD9	//#spirit
+#define MAPSEC_SPIRIT_TOWN1                 0xDA	//#spirit
+#define MAPSEC_SPIRIT_FOREST                0xDB	//#spirit
+#define MAPSEC_NONE                         0xDC
+
 
 #define METLOC_SPECIAL_EGG                  0xFD
 #define METLOC_IN_GAME_TRADE                0xFE

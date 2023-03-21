@@ -1,0 +1,44 @@
+{
+  "id": "MAP_SPIRIT_SPRING",
+  "name": "SpiritSpring",
+  "layout": "LAYOUT_SPIRIT_SPRING",
+  "music": "MUS_ABANDONED_SHIP",
+  "region_map_section": "MAPSEC_SPIRIT_SPRING",
+  "requires_flash": false,
+  "weather": "WEATHER_FOG_HORIZONTAL",
+  "map_type": "MAP_TYPE_TOWN",
+  "allow_cycling": false,
+  "allow_escaping": false,
+  "allow_running": true,
+  "show_map_name": true,
+  "battle_scene": "MAP_BATTLE_SCENE_NORMAL",
+  "connections": [
+    {
+      "map": "MAP_SPIRIT_ROUTE1",
+      "offset": 0,
+      "direction": "up"
+    },
+    {
+      "map": "MAP_SPIRIT_ROUTE2",
+      "offset": 0,
+      "direction": "down"
+    },
+    {
+      "map": "MAP_SPIRIT_ROUTE3",
+      "offset": -6,
+      "direction": "right"
+    }
+  ],
+  "object_events": [
+
+  ],
+  "warp_events": [
+
+  ],
+  "coord_events": [
+
+  ],
+  "bg_events": [
+
+  ]
+}

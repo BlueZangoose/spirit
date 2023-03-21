@@ -1634,3 +1634,41 @@ const u16 gTilesetPalettes_UnionRoom[][16] =
 };
 
 const u32 gTilesetTiles_UnionRoom[] = INCBIN_U32("data/tilesets/secondary/union_room/tiles.4bpp.lz");
+
+const u16 gTilesetPalettes_SpiritSpring[][16] =
+{
+    INCBIN_U16("data/tilesets/secondary/spirit_spring/palettes/00.gbapal"),
+    INCBIN_U16("data/tilesets/secondary/spirit_spring/palettes/01.gbapal"),
+    INCBIN_U16("data/tilesets/secondary/spirit_spring/palettes/02.gbapal"),
+    INCBIN_U16("data/tilesets/secondary/spirit_spring/palettes/03.gbapal"),
+    INCBIN_U16("data/tilesets/secondary/spirit_spring/palettes/04.gbapal"),
+    INCBIN_U16("data/tilesets/secondary/spirit_spring/palettes/05.gbapal"),
+    INCBIN_U16("data/tilesets/secondary/spirit_spring/palettes/06.gbapal"),
+    INCBIN_U16("data/tilesets/secondary/spirit_spring/palettes/07.gbapal"),
+    INCBIN_U16("data/tilesets/secondary/spirit_spring/palettes/08.gbapal"),
+    INCBIN_U16("data/tilesets/secondary/spirit_spring/palettes/09.gbapal"),
+    INCBIN_U16("data/tilesets/secondary/spirit_spring/palettes/10.gbapal"),
+    INCBIN_U16("data/tilesets/secondary/spirit_spring/palettes/11.gbapal"),
+    INCBIN_U16("data/tilesets/secondary/spirit_spring/palettes/12.gbapal"),
+};
+
+const u32 gTilesetTiles_SpiritSpring[] = INCBIN_U32("data/tilesets/secondary/spirit_spring/tiles.4bpp.lz");
+
+const u16 gTilesetPalettes_SpiritTown1[][16] =
+{
+    INCBIN_U16("data/tilesets/secondary/spirit_town_1/palettes/00.gbapal"),
+    INCBIN_U16("data/tilesets/secondary/spirit_town_1/palettes/01.gbapal"),
+    INCBIN_U16("data/tilesets/secondary/spirit_town_1/palettes/02.gbapal"),
+    INCBIN_U16("data/tilesets/secondary/spirit_town_1/palettes/03.gbapal"),
+    INCBIN_U16("data/tilesets/secondary/spirit_town_1/palettes/04.gbapal"),
+    INCBIN_U16("data/tilesets/secondary/spirit_town_1/palettes/05.gbapal"),
+    INCBIN_U16("data/tilesets/secondary/spirit_town_1/palettes/06.gbapal"),
+    INCBIN_U16("data/tilesets/secondary/spirit_town_1/palettes/07.gbapal"),
+    INCBIN_U16("data/tilesets/secondary/spirit_town_1/palettes/08.gbapal"),
+    INCBIN_U16("data/tilesets/secondary/spirit_town_1/palettes/09.gbapal"),
+    INCBIN_U16("data/tilesets/secondary/spirit_town_1/palettes/10.gbapal"),
+    INCBIN_U16("data/tilesets/secondary/spirit_town_1/palettes/11.gbapal"),
+    INCBIN_U16("data/tilesets/secondary/spirit_town_1/palettes/12.gbapal"),
+};
+
+const u32 gTilesetTiles_SpiritTown1[] = INCBIN_U32("data/tilesets/secondary/spirit_town_1/tiles.4bpp.lz");

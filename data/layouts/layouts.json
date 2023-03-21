@@ -4410,6 +4410,76 @@
       "secondary_tileset": "gTileset_MysteryEventsHouse",
       "border_filepath": "data/layouts/SootopolisCity_MysteryEventsHouse_1F_StairsUnblocked/border.bin",
       "blockdata_filepath": "data/layouts/SootopolisCity_MysteryEventsHouse_1F_StairsUnblocked/map.bin"
+    },
+    {
+      "id": "LAYOUT_SPIRIT_SPRING",
+      "name": "SpiritSpring_Layout",
+      "width": 20,
+      "height": 20,
+      "primary_tileset": "gTileset_General",
+      "secondary_tileset": "gTileset_SpiritSpring",
+      "border_filepath": "data/layouts/SpiritSpring/border.bin",
+      "blockdata_filepath": "data/layouts/SpiritSpring/map.bin"
+    },
+    {
+      "id": "LAYOUT_SPIRIT_ROUTE1",
+      "name": "SpiritRoute1_Layout",
+      "width": 20,
+      "height": 8,
+      "primary_tileset": "gTileset_General",
+      "secondary_tileset": "gTileset_SpiritSpring",
+      "border_filepath": "data/layouts/SpiritRoute1/border.bin",
+      "blockdata_filepath": "data/layouts/SpiritRoute1/map.bin"
+    },
+    {
+      "id": "LAYOUT_SPIRIT_ROUTE2",
+      "name": "SpiritRoute2_Layout",
+      "width": 100,
+      "height": 20,
+      "primary_tileset": "gTileset_General",
+      "secondary_tileset": "gTileset_SpiritSpring",
+      "border_filepath": "data/layouts/SpiritRoute2/border.bin",
+      "blockdata_filepath": "data/layouts/SpiritRoute2/map.bin"
+    },
+    {
+      "id": "LAYOUT_SPIRIT_ROUTE3",
+      "name": "SpiritRoute3_Layout",
+      "width": 20,
+      "height": 26,
+      "primary_tileset": "gTileset_General",
+      "secondary_tileset": "gTileset_SpiritSpring",
+      "border_filepath": "data/layouts/SpiritRoute3/border.bin",
+      "blockdata_filepath": "data/layouts/SpiritRoute3/map.bin"
+    },
+    {
+      "id": "LAYOUT_SPIRIT_TOWN1",
+      "name": "SpiritTown1_Layout",
+      "width": 40,
+      "height": 40,
+      "primary_tileset": "gTileset_General",
+      "secondary_tileset": "gTileset_SpiritTown1",
+      "border_filepath": "data/layouts/SpiritTown1/border.bin",
+      "blockdata_filepath": "data/layouts/SpiritTown1/map.bin"
+    },
+    {
+      "id": "LAYOUT_SPIRIT_ROUTE4",
+      "name": "SpiritRoute4_Layout",
+      "width": 30,
+      "height": 15,
+      "primary_tileset": "gTileset_General",
+      "secondary_tileset": "gTileset_Fortree",
+      "border_filepath": "data/layouts/SpiritRoute4/border.bin",
+      "blockdata_filepath": "data/layouts/SpiritRoute4/map.bin"
+    },
+    {
+      "id": "LAYOUT_SPIRIT_FOREST",
+      "name": "SpiritForest_Layout",
+      "width": 40,
+      "height": 30,
+      "primary_tileset": "gTileset_General",
+      "secondary_tileset": "gTileset_Fortree",
+      "border_filepath": "data/layouts/SpiritForest/border.bin",
+      "blockdata_filepath": "data/layouts/SpiritForest/map.bin"
     }
   ]
 }

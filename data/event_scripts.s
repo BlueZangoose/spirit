@@ -1055,3 +1055,18 @@ Common_EventScript_LegendaryFlewAway::
 	.include "data/text/frontier_brain.inc"
 	.include "data/text/save.inc"
 	.include "data/text/birch_speech.inc"
+	.include "data/scripts/spirit_totem.inc"
+
+	.include "data/maps/SpiritSpring/scripts.inc"
+
+	.include "data/maps/SpiritRoute1/scripts.inc"
+
+	.include "data/maps/SpiritRoute2/scripts.inc"
+
+	.include "data/maps/SpiritRoute3/scripts.inc"
+
+	.include "data/maps/SpiritTown1/scripts.inc"
+
+	.include "data/maps/SpiritRoute4/scripts.inc"
+
+	.include "data/maps/SpiritForest/scripts.inc"
